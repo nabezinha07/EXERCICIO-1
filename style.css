@@ -2,4 +2,6 @@ h1{
     text-align: center;
     justify-content: center;
 }
-p{color: blue;}
+p{
+    color: blue;
+}
